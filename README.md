@@ -33,4 +33,4 @@
     [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)  
     to view and interact with your Weather App project.
 
-You'll have your Weather App up and running seamlessly by following these steps. Enjoy your project!
+Following these steps, you'll have your Weather App up and running seamlessly.
